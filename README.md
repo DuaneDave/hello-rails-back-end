@@ -142,7 +142,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ernest Anyewe Adonu**
+👤 **Obiebi Okiemute David**
 
 - GitHub: [@githubhandle](https://github.com/DuaneDave)
 - Twitter: [@twitterhandle](https://twitter.com/dave_duane)
