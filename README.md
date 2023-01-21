@@ -70,7 +70,7 @@
 
 - [Live API link](https://greeting-t0aj.onrender.com/greetings)
 
-- [Frontend Reopository](https://github.com/DuaneDave/hello-react-front-end.git)
+- [Frontend Reopository PR](https://github.com/DuaneDave/hello-react-front-end/pull/2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
